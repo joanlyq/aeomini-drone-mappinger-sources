@@ -22,6 +22,7 @@ Scan:
 
 
 ##To upload your mapping mission
+
 Got to [Padlet](https://padlet.com/joanli/dronemapping101).
 
 Or scan ![qrcode](img/padlet.png)
