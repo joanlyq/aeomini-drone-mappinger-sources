@@ -20,9 +20,10 @@ Scan:
 
 ![qrcode](img/appstore-pix4d.png)
 
+Once you've finished your own map planning
 
 
-##To upload your mapping mission
+## Upload your mapping mission
 
 Got to [Padlet](https://padlet.com/joanli/dronemapping101).
 
