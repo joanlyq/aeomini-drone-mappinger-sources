@@ -29,5 +29,10 @@ Got to [Padlet](https://padlet.com/joanli/dronemapping101).
 
 Or scan ![qrcode](img/padlet.png)
 
+Add a pin near your area of interest and put your target object in the title, then upload the screenshot
+
+![padletsample](img/padlet-sample.png)
+
+
 
 
